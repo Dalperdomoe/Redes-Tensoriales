@@ -1,12 +1,17 @@
 # Implementacion Numerica de Redes Tensoriales
 
-_Una guia a la implementacion practica en python de redes tensoriales_
+_Guia sobre la implementacion practica de redes tensoriales basada en:_
 
-### Pre-requisitos 📋
+-  Tutoriales de [Glen Evenbly](https://www.tensors.net/)
+-  El sitio [Tensor Network](https://tensornetwork.org/)
+-  Charlas del profesor [Miles Stoudenmire](http://scgp.stonybrook.edu/video_portal/video.php?id=3490)
+-  Cichocki et al - [Tensor Networks for Dimensionality Reduction and Large-scale Optimization](https://www.nowpublishers.com/article/Details/MAL-059)
 
-_Para utilizar estos codigos se necesitan las siguientes librerias:
+### Pre-requisitos
+
+Para utilizar estos codigos se necesitan las siguientes librerias:
 
 -  Tensorflow
 -  Tensornetwork
--  numpy_
-
+-  numpy
+-  matplotlib
