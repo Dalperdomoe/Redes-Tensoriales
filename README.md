@@ -1,6 +1,6 @@
 # Implementacion Numerica de Redes Tensoriales
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dalperdomoe/Redes-Tensoriales/gh-pages)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dalperdomoe/Redes-Tensoriales/master)
 
 _Guia sobre la implementacion practica de redes tensoriales basada en:_
 
