@@ -5,6 +5,7 @@ _Guia sobre la implementacion practica de redes tensoriales basada en los Tutori
 -  El sitio [Tensor Network](https://tensornetwork.org/)
 -  El taller [Learning Relevant Features of Data Using Multi Scale Tensor Networks](http://scgp.stonybrook.edu/video_portal/video.php?id=3490) del profesor Miles Stoudenmire
 -  Cichocki et al - [Tensor Networks for Dimensionality Reduction and Large-scale Optimization](https://www.nowpublishers.com/article/Details/MAL-059)
+-  El curso [Tensor Networks](https://www.physik.uni-muenchen.de/lehre/vorlesungen/sose_19/tensor_networks_19/index.html) del profesor Dr. Jan von Delft
 
 ### Pre-requisitos
 
