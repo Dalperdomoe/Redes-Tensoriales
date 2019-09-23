@@ -1,6 +1,6 @@
 # Implementacion Numerica de Redes Tensoriales
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dalperdomoe/Redes-Tensoriales/58d28b236efe765f9a624f08b669fc8eb9d12f0c)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Dalperdomoe/Redes-Tensoriales/2149ea666582e982bcd33fefb3b9d1d182666ec3)
 
 _Guia sobre la implementacion practica de redes tensoriales basada en los Tutoriales del sitio [Tensors.net](https://www.tensors.net/) del profesor Glen Evenbly y su curso [Introduction to the MERA](https://www.youtube.com/watch?v=r1KVkz19riE). Tambien pueden consultar las siguientes referencias:_
 
