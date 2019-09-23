@@ -1,0 +1,8 @@
+numpy
+matplotlib
+jupyter
+notebook
+tensorflow
+tensornetwork
+keras
+seaborn
